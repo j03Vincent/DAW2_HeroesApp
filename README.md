@@ -1,5 +1,7 @@
 Este tutorial de Tour of Heroes muestra cómo configurar el entorno de desarrollo, desarrollar una aplicación utilizando la herramienta Angular CLI para así proporcionar una introducción a los fundamentos de Angular.
 
+Haz clic en [este enlace](https://j03vincent.github.io/DAW2_HeroesApp/), para poder ver el despliegue de la página.
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
